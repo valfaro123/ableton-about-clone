@@ -1,5 +1,6 @@
 
 import './App.css';
+import Footer from './components/footer/Footer';
 import Header from './components/header/Header';
 import ImageCard1 from './components/image-cards/ImageCard1';
 import Navbar from './components/navbar/Navbar';
@@ -23,7 +24,7 @@ function App() {
       <TextSection key={p4.key} title={p4.title} body={p4.body}/>
       <TextSection key={p5.key} title={p5.title} body={p5.body}/>
       <TextSection key={p6.key} title={p6.title} body={p6.body}/>
-      
+      <Footer/>
     </div>
   );
 }
