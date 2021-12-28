@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.list {
+  @apply flex flex-col mb-8;
+}
+
+.list-title {
+  @apply font-semibold;
+}
+.list-item {
+  @apply text-sm leading-6;
+}
