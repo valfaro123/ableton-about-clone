@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ableton-about-clone/static/css/main.7dbd96d6.css",
+    "main.js": "/ableton-about-clone/static/js/main.8adbb87a.js",
+    "static/media/header.jpg": "/ableton-about-clone/static/media/header.4c1c751857bf0466334b.jpg",
+    "static/media/photo-5.jpg": "/ableton-about-clone/static/media/photo-5.5d3a70e56092cab8dac1.jpg",
+    "static/media/poster-meet-the-makers.jpg": "/ableton-about-clone/static/media/poster-meet-the-makers.5b9622ae11d21f17485b.jpg",
+    "static/media/photo-1.jpg": "/ableton-about-clone/static/media/photo-1.9fc7a0c087cb4cc6bae6.jpg",
+    "static/media/photo-8.jpg": "/ableton-about-clone/static/media/photo-8.a415a791d6e1f56b959e.jpg",
+    "static/media/photo-7.jpg": "/ableton-about-clone/static/media/photo-7.9609ba697582d08238dc.jpg",
+    "static/media/photo-6-a.jpg": "/ableton-about-clone/static/media/photo-6-a.9ccc22ed4cd293d7f434.jpg",
+    "static/media/poster-juanpe.jpg": "/ableton-about-clone/static/media/poster-juanpe.7ae631c14e815cde7080.jpg",
+    "static/media/photo-4.jpg": "/ableton-about-clone/static/media/photo-4.ee7cde52c466d538e908.jpg",
+    "static/media/photo-3.jpg": "/ableton-about-clone/static/media/photo-3.ac35441a10b65d8005f4.jpg",
+    "static/media/photo-2.jpg": "/ableton-about-clone/static/media/photo-2.a5ca07f314f37d5a41ee.jpg",
+    "index.html": "/ableton-about-clone/index.html",
+    "static/media/logo.svg": "/ableton-about-clone/static/media/logo.391c458a861d14f5b9d9708a467cc44c.svg",
+    "main.7dbd96d6.css.map": "/ableton-about-clone/static/css/main.7dbd96d6.css.map",
+    "main.8adbb87a.js.map": "/ableton-about-clone/static/js/main.8adbb87a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbd96d6.css",
+    "static/js/main.8adbb87a.js"
+  ]
+}
