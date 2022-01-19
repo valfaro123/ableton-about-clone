@@ -15,3 +15,30 @@
 .-z-1 {
   z-index: -1;
 }
+
+.nav {
+  display: flex;
+
+  z-index: 7;
+  position: absolute;
+  padding: 100px 20px 50px;
+  text-align: start;
+  width: 100%;
+  left: 1rem;
+  transition: all 0.5s ease;
+}
+.opened-nav {
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+}
+.unopened-nav {
+  visibility: hidden;
+  top: -250px;
+}
+
+/* custom class not being added on breakpoint */
+/* .full-nav {
+  @apply flex flex-row space-x-10 items-center static bg-theme visible m-auto w-auto;
+  @apply visible bg-theme static flex-row mt-5 mx-8 text-xl space-x-9 font-semibold text-xl !important; 
+  }
+*/
